@@ -11,6 +11,6 @@ My first tab
 ```
 
 ```{tab-item} Things I found difficult
-My second tab
+My second tab with `code`
 ```
 ````
