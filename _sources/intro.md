@@ -7,10 +7,14 @@ Check out the content pages bundled with this sample book to see more.
 
 ````{tab-set}
 ```{tab-item} Things I learned
-My first tab
+- To build a publication-quality website
+- Ideal project organization structure for jupyter books
+- Using Directives to customize the look and feel of the pages
 ```
 
 ```{tab-item} Things I found difficult
-My second tab with `code`
+- Creating and using references.bib files
+- Executing the Titanics EDA file
+- Creating section labels and referencing back to them
 ```
 ````
